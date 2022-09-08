@@ -1,0 +1,24 @@
+.single-task{
+    background-color: rgb(77, 144, 122);
+    margin: 4% 0%;
+    padding: 3%;
+    display:flex;
+    border-radius: 15px;
+    font-size: larger   ;
+}
+.view-tasks{
+    width: 80%;
+}
+.task-text{
+    width: 100%;
+    height: auto;
+    color: rgb(73, 3, 3);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 800;
+}
+.delete-button button{
+ background-color:  rgb(149, 192, 177);
+ border-radius: 10px;
+ color:  rgb(7, 76, 52);
+}
